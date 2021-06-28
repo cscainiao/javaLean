@@ -1,4 +1,4 @@
-package cainiao_lean.Math;
+package cainiao_lean.math;
 
 public class math {
     public static void main (String []args)
