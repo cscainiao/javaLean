@@ -24,9 +24,9 @@ public class array {
         for (int i = 0; i < a.length; i++) {
             System.out.println(a[i]);
         }
-        array my_arr = new array();
+//        array my_arr = new array();
         int[] c = {1,2,3};
-        int[] b = my_arr.reverse(c);
+        int[] b = reverse(c);
         for (int d:
                 b) {
             System.out.println(d);

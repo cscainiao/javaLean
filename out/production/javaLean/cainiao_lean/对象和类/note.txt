@@ -1,0 +1,4 @@
+java中方法加static和不加static的区别为:
+加static为类方法,同python的classmethod, 可以不用实例化类就直接调用.
+java类名使用大写字母开头(Dog), 方法名使用小写字母开头(getAge)
+名字与类名相同的方法是构造方法, 同python的init方法, 方法里面的this. 类似于python的self.
